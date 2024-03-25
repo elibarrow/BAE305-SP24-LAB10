@@ -3,33 +3,12 @@ Eli Barrow
 
 March 29, 2024
 
-## Summary of Lab ##
+## Summary of Lab 10 ##
+In Lab 10: Data Informatics we began by setting up our own github page and forking a repo. I had already setup my github page a long time ago so there was not much to do for that part of the assignment.
 
 
+## Complete Code Used in Lab 10 ##
 
 
-### Lab Objectives: ###
-1. Setting up my own Github page and forking a repo
-2. Files for Input and Output
-3. Write a function to reverse the order of a file
-
-## Lab Assignment Specific Items ##
-
-
-
-## Methods and Testing ##
-
-
-
-### Part 1 - PID USE ###
-
-
-### Part 2 - Keep your distance ###
-
-
-
-## Results ##
-
-
-## Conclusion of Lab 8 ##
+## Conclusion of Lab 10 ##
 
