@@ -9,7 +9,9 @@ March 29, 2024
 
 
 ### Lab Objectives: ###
-
+1. Setting up my own Github page and forking a repo
+2. Files for Input and Output
+3. Write a function to reverse the order of a file
 
 ## Lab Assignment Specific Items ##
 
